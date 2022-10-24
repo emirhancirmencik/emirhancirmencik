@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emirhancirmencik&label=Profile%20views&color=468caf&style=flat-square" alt="emirhancirmencik" /> </p>
 
-- 🌱 I’m currently learning **ReactJS, ExpressJS**
+- 🌱 I’m currently learning **Java, ExpressJS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/emirhancirmencik/front-end-patikasi](https://github.com/emirhancirmencik/front-end-patikasi)
-
-- 💬 Ask me about **HTML, CSS, JS**
+- 💬 Ask me about **HTML, CSS, JS, React**
 
 - 📫 How to reach me **emirhancirmencik@gmail.com**
 
